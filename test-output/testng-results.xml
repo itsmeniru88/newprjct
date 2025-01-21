@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-24T08:40:17 EST" name="Default suite" finished-at="2024-12-24T08:42:22 EST" duration-ms="124188">
+    <groups>
+    </groups>
+    <test started-at="2024-12-24T08:40:17 EST" name="Default test" finished-at="2024-12-24T08:42:22 EST" duration-ms="124188">
+      <class name="com.client.testcases.Loginpagetest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.client.testcases.Loginpagetest@38425407]" started-at="2024-12-24T08:40:17 EST" name="Setup" finished-at="2024-12-24T08:40:24 EST" duration-ms="6188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Tc001_Login_valid()[pri:1, instance:com.client.testcases.Loginpagetest@38425407]" started-at="2024-12-24T08:40:24 EST" name="Tc001_Login_valid" finished-at="2024-12-24T08:40:37 EST" duration-ms="13046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc001_Login_valid -->
+        <test-method is-config="true" signature="Closewind()[pri:0, instance:com.client.testcases.Loginpagetest@38425407]" started-at="2024-12-24T08:40:37 EST" name="Closewind" finished-at="2024-12-24T08:40:37 EST" duration-ms="311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closewind -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.client.testcases.Loginpagetest@38425407]" started-at="2024-12-24T08:40:37 EST" name="Setup" finished-at="2024-12-24T08:40:43 EST" duration-ms="5565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Tc002_Login_Invalid()[pri:2, instance:com.client.testcases.Loginpagetest@38425407]" started-at="2024-12-24T08:40:43 EST" name="Tc002_Login_Invalid" finished-at="2024-12-24T08:40:55 EST" duration-ms="12671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc002_Login_Invalid -->
+        <test-method is-config="true" signature="Closewind()[pri:0, instance:com.client.testcases.Loginpagetest@38425407]" started-at="2024-12-24T08:40:55 EST" name="Closewind" finished-at="2024-12-24T08:40:55 EST" duration-ms="232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closewind -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.client.testcases.Loginpagetest@38425407]" started-at="2024-12-24T08:40:55 EST" name="Setup" finished-at="2024-12-24T08:41:01 EST" duration-ms="5465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Tc003_Login_Invalid()[pri:3, instance:com.client.testcases.Loginpagetest@38425407]" started-at="2024-12-24T08:41:01 EST" name="Tc003_Login_Invalid" finished-at="2024-12-24T08:41:14 EST" duration-ms="12974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc003_Login_Invalid -->
+        <test-method is-config="true" signature="Closewind()[pri:0, instance:com.client.testcases.Loginpagetest@38425407]" started-at="2024-12-24T08:41:14 EST" name="Closewind" finished-at="2024-12-24T08:41:14 EST" duration-ms="236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closewind -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.client.testcases.Loginpagetest@38425407]" started-at="2024-12-24T08:41:14 EST" name="Setup" finished-at="2024-12-24T08:41:20 EST" duration-ms="5633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Tc004_Login_Invalid()[pri:4, instance:com.client.testcases.Loginpagetest@38425407]" started-at="2024-12-24T08:41:20 EST" name="Tc004_Login_Invalid" finished-at="2024-12-24T08:41:33 EST" duration-ms="13299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc004_Login_Invalid -->
+        <test-method is-config="true" signature="Closewind()[pri:0, instance:com.client.testcases.Loginpagetest@38425407]" started-at="2024-12-24T08:41:33 EST" name="Closewind" finished-at="2024-12-24T08:41:33 EST" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closewind -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.client.testcases.Loginpagetest@38425407]" started-at="2024-12-24T08:41:33 EST" name="Setup" finished-at="2024-12-24T08:41:39 EST" duration-ms="5618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Tc005_Login_withoutcred()[pri:5, instance:com.client.testcases.Loginpagetest@38425407]" started-at="2024-12-24T08:41:39 EST" name="Tc005_Login_withoutcred" finished-at="2024-12-24T08:41:42 EST" duration-ms="3575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc005_Login_withoutcred -->
+        <test-method is-config="true" signature="Closewind()[pri:0, instance:com.client.testcases.Loginpagetest@38425407]" started-at="2024-12-24T08:41:42 EST" name="Closewind" finished-at="2024-12-24T08:41:43 EST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closewind -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.client.testcases.Loginpagetest@38425407]" started-at="2024-12-24T08:41:43 EST" name="Setup" finished-at="2024-12-24T08:41:48 EST" duration-ms="5522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Tc006_Login_withvalidenter()[pri:6, instance:com.client.testcases.Loginpagetest@38425407]" started-at="2024-12-24T08:41:48 EST" name="Tc006_Login_withvalidenter" finished-at="2024-12-24T08:42:03 EST" duration-ms="14709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc006_Login_withvalidenter -->
+        <test-method is-config="true" signature="Closewind()[pri:0, instance:com.client.testcases.Loginpagetest@38425407]" started-at="2024-12-24T08:42:03 EST" name="Closewind" finished-at="2024-12-24T08:42:03 EST" duration-ms="200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closewind -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.client.testcases.Loginpagetest@38425407]" started-at="2024-12-24T08:42:03 EST" name="Setup" finished-at="2024-12-24T08:42:09 EST" duration-ms="5615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Tc007_Login_withInvalidenter()[pri:7, instance:com.client.testcases.Loginpagetest@38425407]" started-at="2024-12-24T08:42:09 EST" name="Tc007_Login_withInvalidenter" finished-at="2024-12-24T08:42:21 EST" duration-ms="12615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc007_Login_withInvalidenter -->
+        <test-method is-config="true" signature="Closewind()[pri:0, instance:com.client.testcases.Loginpagetest@38425407]" started-at="2024-12-24T08:42:21 EST" name="Closewind" finished-at="2024-12-24T08:42:22 EST" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closewind -->
+      </class> <!-- com.client.testcases.Loginpagetest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
