@@ -12,6 +12,7 @@ public class LoginpageObjects {
 	//we will write all xpaths of the objects here using findBy Annotation
 	//create methods to the objects pass uname,pwd&click
 	//create testcases methods & call username,pwd&click method
+	//this is for GIT
 	WebDriver ldriver;
 	public LoginpageObjects(WebDriver rdriver) 
 	{
